@@ -1,1 +1,2 @@
 this is info file of my project
+edited file
